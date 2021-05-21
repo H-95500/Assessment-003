@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css?family=Titillium+Web");
+* {
+  font-family: "Titillium Web", sans-serif; }
+
+.form-wrapper {
+  background-color: grey; }
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: .5rem;
+  padding-left: .5rem;
+  font-weight: bold; }
+
+.navbar .navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold; }
+
+.navbar .nav-item {
+  padding: 10px 20px; }
+
+.navbar .nav-link {
+  font-size: 20px;
+  margin-left: 10px; }
+
+.fa-bars {
+  color: #007bff;
+  font-size: 30px; }
+
+.navbar-toggler {
+  height: 3rem; }
+
+.form-check-label {
+  font-size: 1rem; }
+
+.container {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+  margin-left: 5rem; }
+
+.form-wrapper {
+  background-color: #0c41e0; }
+
+.registration {
+  margin-top: 3rem;
+  border: 2px solid #a7acad;
+  background-color: #eff0f3;
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+  border-radius: 1.5rem; }
+
+.btn-success {
+  margin: 1rem; }
+
+.page-footer {
+  height: 7rem;
+  width: 100%;
+  background-color: black;
+  margin-top: 3rem;
+  padding-top: 2rem; }
+
+@media screen and (max-width: 500px) {
+  .btn-success {
+    margin-top: 1.4rem;
+    width: 108%;
+    margin-left: -0.8rem; }
+
+  .btn-warning {
+    margin-top: 0.8rem;
+    width: 108%;
+    margin-left: -0.8rem;
+    margin-bottom: 1.3rem; } }
+@media screen and (max-width: 800px) {
+  .navbar-expand-lg .navbar-nav .nav-link {
+    float: left;
+    font-size: 1.3rem;
+    color: blue;
+    width: 100%;
+    text-align: left;
+    height: 1.5rem;
+    padding: 0.01rem; } }
+
+/*# sourceMappingURL=secondpage.css.map */
